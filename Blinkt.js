@@ -1,8 +1,8 @@
 "use strict";
 
-var wpi = require('wiring-pi'),
-	DAT = 23,
-	CLK = 24,
+var wpi = require('node-wiring-pi'),
+	DAT = 5,
+	CLK = 6,
 	Blinkt;
 
 Blinkt = function () {};
