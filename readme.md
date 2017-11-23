@@ -4,7 +4,7 @@ A Node.js Library to Interact with [Blinkt](https://shop.pimoroni.com/products/b
 # Install
 
 ```bash
-npm install node-blinkt
+npm install https://github.com/bgsuello/node-blinkt
 ```
 
 # Usage
